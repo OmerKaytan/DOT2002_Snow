@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 27dff0823ed49d847b50c4eda65199e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 336
+        width: 169
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94df56c1bbe32d4dbc31e8a2ada7b59
+      internalID: -1823345060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 252
+        width: 169
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87d2b9fe8fc32b418c8e0acc87ca090
+      internalID: -1164711356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 168
+        width: 169
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190396a5b9ee8c43a74312e3bf4f478
+      internalID: 1738848919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 84
+        width: 169
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e3849a4feda04d8b407af38129833
+      internalID: -582726665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 169
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb94ecd68c75d3f4582c26716635ec47
+      internalID: -287287077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f815a6c999f71214bb54eedeb10fd33f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":169.0,"y":64.0},"gridSpriteOffset":{"x":31.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":20.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_0: -1823345060
+      vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_1: -1164711356
+      vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_2: 1738848919
+      vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_3: -582726665
+      vertical-hud-frame-element-technology-background-with-a-border-of-blue-neon-light-beams-on-black-mesh-texture-this-tech-border-ui-viewfinder-animation-is-full-hd-and-looping-free-video_4: -287287077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

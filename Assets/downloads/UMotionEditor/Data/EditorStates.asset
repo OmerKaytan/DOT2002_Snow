@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1252790098, guid: 448d62fcada76fd4ab5702190add98fd, type: 3}
+  m_Name: EditorStates
+  m_EditorClassIdentifier: "UMotionEditor.dll::\u0389\u038A\u038A\u038A\u038A\u0389\u038A\u0389\u0389\u0389\u0389\u0389\u0389\u0389\u038A\u038A\u0389\u038A\u038A\u0389\u038A\u0389\u0389\u0389\u0389\u038A\u0389\u038A\u038A\u038A\u038A\u038A\u038A\u038A\u0389\u038A\u038A\u038A\u038A\u0389\u038A\u0389\u0389\u038A\u0389\u038A\u0389"
+  GeneralStates:
+    LoadedProjectGUID:
+      valueInternal: 81fd8ca6ce9a1af40a8bac898a55d6c6
+    RecentlyOpenedProjectPath:
+      valueInternal: Assets\animations\knight\animasyonlar\KnightOkAtma
+    RecentlyOpenedProjectGUIDsList:
+    - valueInternal: 81fd8ca6ce9a1af40a8bac898a55d6c6
+    - valueInternal: 9a34a2dc743fbde45ba5667d8ee05512
+    - valueInternal: 8628cc333928bd648a350d2c37e59183
+    - valueInternal: 6cf1e620f388e934bae2e2686f2b487d
+    - valueInternal: 39d9f805906946440a7ce80b457b998f
+    - valueInternal: 3b73184fa0479ec48883858ba73fb8ba
+    - valueInternal: d93a2804faa300e46a7393daa9b9c37b
+    - valueInternal: 89a6eecc29b1d8245ad1f44ca6fb5969
+    - valueInternal: 351bb74e0040ffe46abd06a16e3e9bf9
+    - valueInternal: 93c5d463292ec4e4cbb97f64bea306e0
